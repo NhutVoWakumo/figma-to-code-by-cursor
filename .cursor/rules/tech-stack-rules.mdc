@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+always prefer to code in typescript, nextjs 15 and in this project is tailwind 4.0
+for tailwind v4, in global css file, only need @import "tailwindcss", no need further more
+no need to improve font in css, use next/font
