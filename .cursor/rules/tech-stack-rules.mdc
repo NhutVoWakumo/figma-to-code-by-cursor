@@ -4,5 +4,6 @@ globs:
 alwaysApply: true
 ---
 always prefer to code in typescript, nextjs 15 and in this project is tailwind 4.0
+for nextjs, if component uses client functions or hooks, dont forget to add "use client"
 for tailwind v4, in global css file, only need @import "tailwindcss", no need further more
 no need to improve font in css, use next/font
